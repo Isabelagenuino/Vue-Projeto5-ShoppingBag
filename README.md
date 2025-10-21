@@ -29,17 +29,17 @@ Uma aplicação de e-commerce construída com Vue.js, onde usuários podem naveg
 
 **Como rodar localmente**
 
-**No bash clone o repositório**
+No bash clone o repositório:
 
 git clone https://github.com/Isabelagenuino/Vue-Projeto5-ShoppingBag.git
 
-**Acesse a pasta do projeto**
+Acesse a pasta do projeto:
 cd vue-store
 
-**Instale as dependências**
+Instale as dependências:
 npm install
 
-**Inicie o servidor de desenvolvimento**
+Inicie o servidor de desenvolvimento:
 npm run dev
 
 **Preview**
