@@ -2,13 +2,21 @@
 Uma aplicação de e-commerce construída com Vue.js, onde usuários podem navegar por produtos, adicioná-los à sacola, ajustar quantidades e visualizar o total da compra. Os dados são gerenciados com Vuex e persistidos via localStorage. Os produtos são carregados da Fake Store API, uma API pública para simular e-commerces.
 
 **Funcionalidades**
+
 -Listagem de produtos com imagem, título e preço
+
 -Adição e remoção de produtos da sacola
+
 -Controle de quantidade por item
+
 -Cálculo automático do total da compra
+
 -Persistência de dados com localStorage
+
 -Estilização responsiva com SCSS
+
 -Navegação com Vue Router
+
 -Estado global com Vuex
 
 **Tecnologias Utilizadas**
