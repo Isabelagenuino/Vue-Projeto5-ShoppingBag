@@ -3,21 +3,21 @@ Uma aplicação de e-commerce construída com Vue.js, onde usuários podem naveg
 
 **Funcionalidades**
 
--Listagem de produtos com imagem, título e preço
+- Listagem de produtos com imagem, título e preço
 
--Adição e remoção de produtos da sacola
+- Adição e remoção de produtos da sacola
 
--Controle de quantidade por item
+- Controle de quantidade por item
 
--Cálculo automático do total da compra
+- Cálculo automático do total da compra
 
--Persistência de dados com localStorage
+- Persistência de dados com localStorage
 
--Estilização responsiva com SCSS
+- Estilização responsiva com SCSS
 
--Navegação com Vue Router
+- Navegação com Vue Router
 
--Estado global com Vuex
+- Estado global com Vuex
 
 **Tecnologias Utilizadas**
 - [Vue.js 3](https://vuejs.org/)
