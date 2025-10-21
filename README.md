@@ -61,11 +61,5 @@ Adicionando produto à sacola
 <img width="1918" height="823" alt="image" src="https://github.com/user-attachments/assets/1ff7845d-e29c-4400-a2c7-885facae1847" />
 
 
-
-Removendo produto da sacola
-<img width="1919" height="886" alt="image" src="https://github.com/user-attachments/assets/b66a8a82-fd16-4f72-af55-4a71c13a7e6a" />
-
-
-
 Ajustando quantidade de produtos na sacola
 <img width="1919" height="821" alt="image" src="https://github.com/user-attachments/assets/99c62fcd-540f-4908-8d30-f39f8b2ce824" />
